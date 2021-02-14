@@ -8,9 +8,27 @@ html {
   box-sizing: inherit;
 }
 
+h1,
+h2,
+h3,
+h4,
+a,
+ul,
+li,
+p {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
 body {
   margin: 0;
   padding: 0;
+}
+@media (min-width: 768px) {
+  body {
+    padding: 2em;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
