@@ -70,7 +70,6 @@ document.querySelector('p').innerHTML = `${person[id].review}`
 
 
 
-
 let change = () => {
 document.querySelector('h2').innerHTML = `${person[id].name}`
 document.querySelector('img').src = `${person[id].pic}`
@@ -78,11 +77,15 @@ document.querySelector('h3').innerHTML = `${person[id].job}`
 document.querySelector('p').innerHTML = `${person[id].review}`
 }
 
+
+// for random
 rand.addEventListener('click', () => {
     id = Math.floor(Math.random(0)*person.length)
     change();
 })
 
+
+// for previous button
 prev.addEventListener('click',() => 
 {
     id--;
@@ -92,6 +95,9 @@ prev.addEventListener('click',() =>
     change();
 })
 
+
+
+// for next button
 next.addEventListener('click',() => 
 {
     id++;
