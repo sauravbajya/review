@@ -1,54 +1,54 @@
 let person =[
     {
-        pic : '/img/user-img1.jpg',
+        pic : './img/user-img1.jpg',
         name : 'Tori Doi',
         job : 'Engineer',
         review : 'Enim optio voluptas molestias pariatur error, vel saepe cum vero minima culpa dignissimos eius, incidunt eveniet aspernatur perferendis ipsum quod mollitia commodi.'
     },
     {
-        pic : '/img/user-img.jpg',
+        pic : './img/user-img.jpg',
         name : 'Saurav Bajracharya',
         job : 'Web Developer',
         review : 'Lorem ipsum dolor luptas molestias pariatur error, vel saepe cum vero minima culpa dignissimos eius, incidunt eveniet aspernatur perferendis ipsum quod mollitia commodi.'
     },
     {
-        pic : '/img/user-img2.jpg',
+        pic : './img/user-img2.jpg',
         name : 'Rob Lucci',
         job : 'Doctor',
         review : 'adipisicing elit. Enim '
     },
     {
-        pic : '/img/user-img3.jpg',
+        pic : './img/user-img3.jpg',
         name : 'Furax Devkota',
         job : 'Sleeper',
         review : 'arror, vel saepe cum vero minima culpa dignissimos eius, incidunt eveniet aspernatur perferendis ipsum quod mollitia commodi.'
     },
     {
-        pic : '/img/user-img4.jpg',
+        pic : './img/user-img4.jpg',
         name : 'Fisher Man',
         job : 'Pilot',
         review : 'adipisicing elit. Enim optio voluptas molestias pariatur error, vel saepe cum vero minima culpa dignissimos eius, incidunt eveniet aspernatur perferendis ipsum quod mollitia commodi.'
     },
     {
-        pic : '/img/user-img5.jpg',
+        pic : './img/user-img5.jpg',
         name : 'Sulavi Bara',
         job : 'Umemployed',
         review : ' molestias pariatur error, vel saepe cum vero minima culpa dignissimos eius, incidunt eveniet aspernatur perferendis ipsum quod mollitia commodi.'
     },
     {
-        pic : '/img/user-img6.jpg',
+        pic : './img/user-img6.jpg',
         name : 'Choco Polom',
         job : 'Surfer',
         review : 'adipisicing elit. Enim optio voluptas molestias pariatur error, vel saepe cum vero minima culpa dignissimos eius, incidunt eveniet aspernatur perferendis ipsum quod mollitia commodi.'
     },
     {
-        pic : '/img/user-img7.jpg',
+        pic : './img/user-img7.jpg',
         name : 'Bob Builder',
         job : 'Miner',
         review : 'adipisicing elit. Enim optio culpa dignissimos eius, incidunt eveniet aspernatur perferendis ipsum quod mollitia commodi.'
     },
     {
-        pic : '/img/user-img8.jpg',
+        pic : './img/user-img8.jpg',
         name : 'Leroy Mole',
         job : 'Carpenter',
         review : 'adipisicing elit. Enim optio voluptas molestias pariatur error, vel saepe cum vero minima culpa dmollitia commodi.'
